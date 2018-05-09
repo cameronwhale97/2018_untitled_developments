@@ -6,40 +6,15 @@ Application created by: Cameron Whale, Kieran Wood, Riki Endo.
 ## About the Project. 
 This project was made for a Wintec Comp710 assignment, utilising the CRUD (or Create, Read, Update, Delete) model. 
 
-### Prerequisites
-
-
-### Installing
-
-
-
-```
-until finished
-```
-
-
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
+* [Laravel](https://laravel.com/) - The web framework used
+* [Bootstrap](https://getbootstrap.com/) - Used for UI/UX
+* [Cloud9](https://c9.io) - Cloud platform used to code. 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Cameron Whale** - *UX/UI* - [cameronwhale97](https://github.com/cameronwhale97)
+* **Kieran Wood** - *Database Management* - [Kizari](https://github.com/Kizari)
+* **Riki Endo** - *PHP Development/Scripting* - [ikirs](https://github.com/ikirs)
 
